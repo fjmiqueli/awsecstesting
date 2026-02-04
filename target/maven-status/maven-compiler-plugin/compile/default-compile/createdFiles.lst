@@ -1,0 +1,5 @@
+com\javatechie\controller\CourseController.class
+com\javatechie\controller\CoursehtmlController.class
+com\javatechie\service\CourseService.class
+com\javatechie\CourseServiceApplication.class
+com\javatechie\dto\Course.class
